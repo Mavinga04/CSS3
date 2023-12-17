@@ -1,2 +1,2 @@
 # CSS3
- exercícios com css3
+Desenvolvendo em CSS3
